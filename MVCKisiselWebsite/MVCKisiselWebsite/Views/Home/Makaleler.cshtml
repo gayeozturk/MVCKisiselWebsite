@@ -1,0 +1,56 @@
+﻿@model List<MVCKisiselWebsite.DAL.Makale>
+
+<h4> Makaleler </h4>
+
+<hr />
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3">
+
+            @await Component.InvokeAsync("MakaleList")
+
+           @*  <ul class="list-group">
+                <li class="list-group-item active" aria-current="true">Makaleler</li>
+                @foreach (var item in Model)
+                {
+                    <li class="list-group-item">
+                        <a href="@Url.Action("MakaleDetay","Home",new {id=item.Id})">
+                            @item.Baslik
+                        </a>
+                    </li>
+                }
+            </ul> *@
+        </div>
+        <div class="col-md-9">
+            @foreach (var item in Model)
+            {
+                <div class="col-12">
+                    <div class="p-3 border bg-light">
+                        <h5>@item.Baslik</h5>
+                        <p>
+                            <truncate text="@item.Icerik" length="300"></truncate>
+                        </p>
+                        <div class="row">
+                        <div class="col-4  justify-content-start">
+                            <div class="icon-container">
+                                <i class="fas fa-thumbs-up" id="like-icon"></i>
+                                <span id="like-count">@item.Likee</span>
+
+                                    <i class="fas fa-thumbs-down" id="dislike-icon"></i>
+                                <span id="dislike-count">@item.Dislike</span>
+                            </div>
+                        </div>
+                        <div class="col-8 d-flex justify-content-end">
+                            <a class="btn btn-outline-dark" href="@Url.Action("MakaleDetay","Home",new {id=item.Id})">Devamını oku</a>
+                            @* <a class="btn btn-outline-dark mb-2" asp-action="MakaleDetay" asp-controller="Home" asp-route-id="@item.Id">Devamını oku</a> *@
+                        </div>
+
+                        </div>
+                        
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,90 @@
+﻿@model List<MVCKisiselWebsite.DAL.Makale>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<h4> Makaleler / @ViewBag.Baslik </h4>
+
+
+<hr />
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3">
+
+            @await Component.InvokeAsync("MakaleList")
+
+            @* <ul class="list-group">
+            <li class="list-group-item active" aria-current="true">Makaleler</li>
+            @foreach (var item in Model)
+            {
+            <li class="list-group-item">
+            <a href="@Url.Action("MakaleDetay","Home",new {id=item.Id})">
+            @item.Baslik
+            </a>
+            </li>
+            }
+            </ul> *@
+        </div>
+        <div class="col-md-9" style="text-align:justify">
+
+            <h4>@ViewBag.Makale.Baslik</h4>
+
+            <p>@ViewBag.Makale.Icerik</p>
+
+            <div class="icon-container">
+                <i class="fas fa-thumbs-up" id="like-icon"></i>
+                <span id="like-count">@ViewBag.Makale.Likee</span>
+
+                <i class="fas fa-thumbs-down" id="dislike-icon"></i>
+                <span id="dislike-count">@ViewBag.Makale.Dislike</span>
+            </div>
+
+
+
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#like-icon').click(function () {
+
+                $.ajax({
+                    url: '@Url.Action("Like", "Home", new { id = ViewBag.Makale.Id })',
+                    type: 'POST',
+                    dataType: 'json',
+
+                    success: function (data) {
+                        $('#like-count').text(data);
+                    }
+                });
+            });
+
+            $('#dislike-icon').click(function () {
+                $.ajax({
+                    url: '@Url.Action("Dislike", "Home", new { id = ViewBag.Makale.Id })',
+                    type: 'POST',
+                    dataType: 'json',
+
+                    success: function (data) {
+                        $('#dislike-count').text(data);
+                    }
+                });
+            });
+        });
+
+
+        // document.getElementById('like-icon').addEventListener('click', function () {
+
+        //     var likeCount = parseInt(document.getElementById('like-count').innerText);
+        //     document.getElementById('like-count').innerText = likeCount + 1;
+        // });
+
+        // document.getElementById('dislike-icon').addEventListener('click', function () {
+        //     var dislikeCount = parseInt(document.getElementById('dislike-count').innerText);
+        //     document.getElementById('dislike-count').innerText = dislikeCount + 1;
+        // });
+    </script>
+}

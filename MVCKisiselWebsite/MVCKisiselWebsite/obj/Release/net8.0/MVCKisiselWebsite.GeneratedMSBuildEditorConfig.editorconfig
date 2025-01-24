@@ -1,0 +1,215 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCKisiselWebsite
+build_property.RootNamespace = MVCKisiselWebsite
+build_property.ProjectDir = D:\repos\MVCKisiselWebsite\MVCKisiselWebsite\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\repos\MVCKisiselWebsite\MVCKisiselWebsite
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/CalismaAlanis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNtYUFsYW5pc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/CalismaAlanis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNtYUFsYW5pc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/CalismaAlanis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNtYUFsYW5pc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/CalismaAlanis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNtYUFsYW5pc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/CalismaAlanis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNtYUFsYW5pc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/GenelBilgi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZWxCaWxnaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Home/CalismaAlanlari.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxpc21hQWxhbmxhcmkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Home/Hakkimizda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWtraW1pemRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Home/Iletisim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbGV0aXNpbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Home/Kadromuz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLYWRyb211ei5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Home/MakaleDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWthbGVEZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Home/Makaleler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWthbGVsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Makales/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFrYWxlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Makales/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFrYWxlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Makales/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFrYWxlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Makales/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFrYWxlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Makales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFrYWxlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Mesajs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYWpzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Mesajs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYWpzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Mesajs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYWpzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Mesajs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYWpzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Mesajs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYWpzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Personels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Personels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Personels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Personels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Personels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Shared/Components/MakaleList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWFrYWxlTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Shared/Components/SocialIcon/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU29jaWFsSWNvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Sliders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Sliders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Sliders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Sliders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Sliders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Videos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Videos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Videos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Videos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Videos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/MVCKisiselWebsite/MVCKisiselWebsite/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kspi3p3cjb

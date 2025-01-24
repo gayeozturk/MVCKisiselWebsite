@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Admin Panel</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+
+        #sidebar {
+            height: 100%;
+            width: 250px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: #343a40;
+            padding-top: 20px;
+        }
+
+            #sidebar a {
+                padding: 15px 20px;
+                text-decoration: none;
+                font-size: 18px;
+                color: #d1d1d1;
+                display: block;
+            }
+
+                #sidebar a:hover {
+                    background-color: #495057;
+                }
+
+        #content {
+            margin-left: 250px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="sidebar">
+        <a href="@Url.Action("Index","Admin")">Anasayfa</a>
+        <a class="nav-link" asp-area="" asp-controller="Sliders" asp-action="Index">Sliders</a>
+        <a class="nav-link" asp-area="" asp-controller="Personels" asp-action="Index">Personel</a>
+        <a class="nav-link" asp-area="" asp-controller="CalismaAlanis" asp-action="Index">Çalışma alanı</a>
+      
+        <!-- Diğer menü öğelerini ekleyebilirsiniz -->
+    </div>
+
+    <div id="content">
+        @RenderBody();
+    </div>
+
+    <!-- Bootstrap JS ve Popper.js -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSectionAsync("Scripts",required:false)
+</body>
+</html>

@@ -1,0 +1,49 @@
+﻿@model List<Personel>
+<div class="container-fluid text-center">
+    <b>Personelimiz</b>
+    <hr />
+
+
+
+    <div class="row" id="personel">
+
+
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 p-3">
+                <img width="100px" height="100px" src="@item.Yol" class="rounded-circle" alt="...">
+                <br /><b>@item.Unvan</b><br />
+                <b>@item.Ad</b>
+            </div>
+        }
+
+
+        @* <div class="col-md-4 p-3"><img src="https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png" class="rounded-circle" alt="...">
+            <br /><b>Mühendis</b><br />
+            <b>Özlem Akgünoğlu</b>
+        </div>
+        <div class="col-md-4 p-3"><img src="https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png" class="rounded-circle" alt="...">
+           <br />
+            <b>Mühendis</b><br />
+            <b>Özlem Akgünoğlu</b>
+        </div>
+        <div class="col-md-4 p-3"><img src="https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png" class="rounded-circle" alt="...">
+            <br /> <b>Mühendis</b><br />
+            <b>Özlem Akgünoğlu</b>
+        </div>
+        <div class="col-md-4 p-3"><img src="https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png" class="rounded-circle" alt="...">
+            <br /><b>Mühendis</b><br />
+            <b>Özlem Akgünoğlu</b>
+        </div>
+        <div class="col-md-4 p-3"><img src="https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png" class="rounded-circle" alt="...">
+            <br /><b>Mühendis</b><br />
+            <b>Özlem Akgünoğlu</b>
+        </div>
+        <div class="col-md-4 p-3"><img src="https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png" class="rounded-circle" alt="...">
+            <br /><b>Mühendis</b><br />
+            <b>Özlem Akgünoğlu</b>
+        </div> *@
+    </div>
+    
+
+</div>

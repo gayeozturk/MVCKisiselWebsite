@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\MVCKisiselWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\dal\\kisiselwebsitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\dal\\kisiselwebsitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\dal\\calismaalani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\dal\\calismaalani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\dal\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\dal\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\dal\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\dal\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\dal\\mesaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\dal\\mesaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\dal\\makale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\dal\\makale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\dal\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\dal\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\dal\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\dal\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\dal\\genelbilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\dal\\genelbilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\views\\shared\\components\\makalelist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\views\\shared\\components\\makalelist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\views\\shared\\components\\socialicon\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\views\\shared\\components\\socialicon\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\views\\home\\makaleler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\views\\home\\makaleler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\views\\home\\makaledetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\views\\home\\makaledetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\controllers\\socialiconviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\controllers\\socialiconviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|e:\\repos\\mvckisiselwebsite\\mvckisiselwebsite\\controllers\\makalelistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF553A7C-3558-4E90-9F85-C1C1D38BF23D}|MVCKisiselWebsite\\MVCKisiselWebsite.csproj|solutionrelative:mvckisiselwebsite\\controllers\\makalelistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Slider.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\DAL\\Slider.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Slider.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\DAL\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:56:06.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Personel.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\DAL\\Personel.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Personel.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\DAL\\Personel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:55:35.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mesaj.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Mesaj.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\DAL\\Mesaj.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Mesaj.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\DAL\\Mesaj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:55:03.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Makale.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Makale.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\DAL\\Makale.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Makale.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\DAL\\Makale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:54:28.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Kullanici.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\DAL\\Kullanici.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Kullanici.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\DAL\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:53:57.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenelBilgi.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\GenelBilgi.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\DAL\\GenelBilgi.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\GenelBilgi.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\DAL\\GenelBilgi.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:52:55.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalismaAlani.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\CalismaAlani.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\DAL\\CalismaAlani.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\CalismaAlani.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\DAL\\CalismaAlani.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:52:28.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KisiselwebsiteContext.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\KisiselwebsiteContext.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\DAL\\KisiselwebsiteContext.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\KisiselwebsiteContext.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\DAL\\KisiselwebsiteContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:51:27.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Video.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Video.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\DAL\\Video.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\DAL\\Video.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\DAL\\Video.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:56:39.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCKisiselWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T11:28:29.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "MVCKisiselWebsite\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T11:28:25.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCKisiselWebsite\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:56:08.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Shared\\Components\\MakaleList\\Default.cshtml",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Views\\Shared\\Components\\MakaleList\\Default.cshtml",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Shared\\Components\\MakaleList\\Default.cshtml",
+              "RelativeToolTip": "MVCKisiselWebsite\\Views\\Shared\\Components\\MakaleList\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:55:07.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Shared\\Components\\SocialIcon\\Default.cshtml",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Views\\Shared\\Components\\SocialIcon\\Default.cshtml",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Shared\\Components\\SocialIcon\\Default.cshtml",
+              "RelativeToolTip": "MVCKisiselWebsite\\Views\\Shared\\Components\\SocialIcon\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:55:38.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Iletisim.cshtml",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Home\\Iletisim.cshtml",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Views\\Home\\Iletisim.cshtml",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Home\\Iletisim.cshtml",
+              "RelativeToolTip": "MVCKisiselWebsite\\Views\\Home\\Iletisim.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:03:55.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAiwGcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:54:08.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCKisiselWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAIEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T09:58:45.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Makaleler.cshtml",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Home\\Makaleler.cshtml",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Views\\Home\\Makaleler.cshtml",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Home\\Makaleler.cshtml",
+              "RelativeToolTip": "MVCKisiselWebsite\\Views\\Home\\Makaleler.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:58:03.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MVCKisiselWebsite\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-04T11:03:46.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MakaleDetay.cshtml",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Home\\MakaleDetay.cshtml",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Views\\Home\\MakaleDetay.cshtml",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\Home\\MakaleDetay.cshtml",
+              "RelativeToolTip": "MVCKisiselWebsite\\Views\\Home\\MakaleDetay.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T09:42:52.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCKisiselWebsite\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:56:10.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SocialIconViewComponent.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Controllers\\SocialIconViewComponent.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Controllers\\SocialIconViewComponent.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Controllers\\SocialIconViewComponent.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\Controllers\\SocialIconViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:02:35.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MakaleListViewComponent.cs",
+              "DocumentMoniker": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Controllers\\MakaleListViewComponent.cs",
+              "RelativeDocumentMoniker": "MVCKisiselWebsite\\Controllers\\MakaleListViewComponent.cs",
+              "ToolTip": "E:\\repos\\MVCKisiselWebsite\\MVCKisiselWebsite\\Controllers\\MakaleListViewComponent.cs",
+              "RelativeToolTip": "MVCKisiselWebsite\\Controllers\\MakaleListViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:00:39.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

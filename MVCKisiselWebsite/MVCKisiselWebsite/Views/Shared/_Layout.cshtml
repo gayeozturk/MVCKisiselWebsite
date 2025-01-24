@@ -1,0 +1,133 @@
+﻿@* @model List<CalismaAlani> *@
+@* @model MVCKisiselWebsite.Models.IndexViewModel *@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MVCKisiselWebsite</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MVCKisiselWebsite.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ÖZLEM AKGÜNOĞLU</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Anasayfa</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Hakkimizda">Hakkımızda</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="CalismaAlanlari">Çalışma Alanları</a>
+                        </li>
+                       @*  <li class="nav-item dropdown">
+
+                            <a class="nav-link text-dark dropdown-toggle " data-bs-toggle="dropdown" asp-area="" asp-controller="Home" asp-action="CalismaAlanlari">Çalışma alanları</a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
+                               @*  @foreach (var item in Model.CalismaAlanlari)
+                                {
+                                    <li><a href="@Url.Action("CalismaAlanlari","Home",new {id=item.Id}) class="dropdown-item" type="button">@item.AlanAdi</a></li>
+                                } 
+                                <li><a href="#" class="dropdown-item" type="button">11111</a></li>
+                                <li><a href="#"class="dropdown-item" type="button">Another action</a></li>
+                                <li><a href="#" class="dropdown-item" type="button">Something else here</a></li>
+                            </ul>
+
+                        </li> *@
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Kadromuz">Kadromuz</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Makaleler">Makaleler</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Iletisim">İletisim</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+
+             
+            @RenderBody()
+
+           @*  <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
+                    Dropdown
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                    @* @foreach (var item in Model.CalismaAlanlari)
+                    {
+                        <li><a href="@Url.Action("CalismaAlanlari","Home",new {id=item.Id}) class="dropdown-item" type="button">@item.AlanAdi</a></li>
+                    } *@
+                   @*  <li><button class="dropdown-item" type="button">Action</button></li>
+                    <li><button class="dropdown-item" type="button">Another action</button></li>
+                    <li><button class="dropdown-item" type="button">Something else here</button></li> 
+                </ul>
+            </div> *@
+
+        </main>
+    </div>
+
+
+    
+    
+    <footer class="border-top text-muted">
+        <div class="container">
+            <div class="row mt-5">
+                <div class="col-3">
+                    <b>Site haritası</b>
+                    <ul id="sitemap">
+                        <li>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Anasayfa</a>
+                        </li>
+                        <li>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Hakkimizda">Hakkımızda</a>
+                        </li>
+                        <li>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="CalismaAlanlari">Çalışma alanları</a>
+                        </li>
+                        <li>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Kadromuz">Kadromuz</a>
+                        </li>
+                        <li>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Makaleler">Makaleler</a>
+                        </li>
+                        <li>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Iletisim">İletisim</a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="col-3"></div>
+                <div class="col-6"></div>
+            </div>
+            @await Component.InvokeAsync("SocialIcon")
+        </div>
+        <div class="container">
+            &copy; 2024 - MVCKisiselWebsite - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

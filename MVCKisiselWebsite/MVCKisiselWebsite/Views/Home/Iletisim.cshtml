@@ -1,0 +1,97 @@
+﻿@model GenelBilgi
+<h1>İLETİŞİM</h1>
+<hr />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-6">
+            ADRESİMİZ <br />
+            <b>@Model.SiteAdi</b> <br />
+            <p>ADRES : @Model.Adres </p> <br />
+            Telefon: @Model.Telefon <br />
+            Fax: @Model.Fax <br />
+            @await Component.InvokeAsync("SocialIcon")
+            
+
+
+        </div>
+        <div class="col-6">
+
+            <form id="myForm">
+                <!-- Name input -->
+                <div class="mb-3">
+                    <label class="form-label" for="name">Name</label>
+                    <input class="form-control" id="name" type="text" placeholder="Name" data-sb-validations="required" />
+                    <div class="invalid-feedback" data-sb-feedback="name:required">Name is required.</div>
+                </div>
+
+                <!-- Email address input -->
+                <div class="mb-3">
+                    <label class="form-label" for="emailAddress">Email Address</label>
+                    <input class="form-control" id="mail" type="email" placeholder="Email Address" data-sb-validations="required, email" />
+                    <div class="invalid-feedback" data-sb-feedback="emailAddress:required">Email Address is required.</div>
+                    <div class="invalid-feedback" data-sb-feedback="emailAddress:email">Email Address Email is not valid.</div>
+                </div>
+
+                <!-- Message input -->
+                <div class="mb-3">
+                    <label class="form-label" for="message">Message</label>
+                    <textarea class="form-control" id="message" type="text" placeholder="Message" style="height: 10rem;" data-sb-validations="required"></textarea>
+                    <div class="invalid-feedback" data-sb-feedback="message:required">Message is required.</div>
+                </div>
+
+                <!-- Form submissions success message -->
+                <div>
+                    <div id="result" class="text-center mb-3"></div>
+                </div>
+
+                <!-- Form submissions error message -->
+                <div class="d-none" id="submitErrorMessage">
+                    <div class="text-center text-danger mb-3">Error sending message!</div>
+                </div>
+
+                <!-- Form submit button -->
+                <div class="d-grid">
+                    <button class="btn btn-primary btn-lg" id="submitButton" type="button">Submit</button>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>
+
+
+<!-- Scriptyleri layout içindeki jquery tanımının altında yazılmasını sağlar -->
+@section Scripts {
+
+    <script>
+        $(document).ready(function () {
+           
+            $('#submitButton').click(function () {
+                
+                var formData = {
+                    Mail: $('#mail').val(),
+                    AdSoyad: $('#name').val(),
+                    Mesajicerik: $('#message').val(),
+                        
+                }
+
+
+                $.ajax({
+                    url: '/Home/mesaj',
+                    type: 'POST',
+                    dataType: 'json',
+                    data: { formData: formData },
+                    success: function (response) {
+                        console.log(response)
+                        $('#result').text(response);
+                    },
+                    error: function () {
+                        $('#result').text('Form gönderimi sırasında bir hata oluştu.');
+                    }
+                });
+            });
+        });
+    </script>
+}
